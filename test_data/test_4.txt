@@ -1,0 +1,5 @@
+PLACE 0,0,south
+MOVE
+REPORT
+
+Output: 0,0,south

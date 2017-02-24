@@ -1,0 +1,9 @@
+PLACE 0,0,north
+MOVE
+MOVE
+MOVE
+MOVE
+right
+REPORT
+
+Output: 0,4,east
